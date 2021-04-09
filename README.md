@@ -3,6 +3,7 @@
 I made this project so that I didn't have to configure all of my favorite tools and utilities every time I wanted to spin up a project.
 
 Included projects:
+
 - Vite
 - React
 - Typescript
@@ -16,6 +17,7 @@ Included projects:
 - Commitizen
 
 Some helpful scripts:
+
 - dev: run dev server
 - test: run tests
 - typecheck: run Typescript compiler
